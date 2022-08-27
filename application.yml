@@ -13,6 +13,6 @@ management:
 
 
 
-greething-service:
-  greeting:"óla"
-  default-value:"Mundo"
+greeting-service:
+  greeting: "Olá"
+  default-value: "Mundo"
